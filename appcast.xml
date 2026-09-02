@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Beekeeper</title>
+        <item>
+            <title>0.1.23</title>
+            <pubDate>Wed, 02 Sep 2026 15:13:02 +0100</pubDate>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/aataraxiaa/beekeeper-releases/releases/download/beekeeper-v0.1.23/Beekeeper.zip" length="63797003" type="application/octet-stream" sparkle:edSignature="fd1oY9qBwTzeqtmiE1hT5+cvmgH2wr+aqWbuJrood4rNwj8nI44UO9qK1CBfv6IstyRDpEp8cr1zHdup3d4zBw=="/>
+        </item>
+    </channel>
+</rss>
