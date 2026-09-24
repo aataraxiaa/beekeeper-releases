@@ -3,13 +3,13 @@
     <channel>
         <title>Beekeeper</title>
         <item>
-            <title>0.1.32</title>
-            <pubDate>Thu, 24 Sep 2026 09:07:44 +0100</pubDate>
-            <sparkle:version>56</sparkle:version>
-            <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
+            <title>0.1.33</title>
+            <pubDate>Thu, 24 Sep 2026 09:24:46 +0100</pubDate>
+            <sparkle:version>57</sparkle:version>
+            <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aataraxiaa/beekeeper-releases/releases/download/beekeeper-v0.1.32/Beekeeper.zip" length="64242586" type="application/octet-stream" sparkle:edSignature="clM4bOJNoo/QBgDqhED/BwXk5Ux5dm/6pajepruUu92MUZ45WWFMKYZvSND/eP503UZvBrmmilgNLho4b9kuBw=="/>
+            <enclosure url="https://github.com/aataraxiaa/beekeeper-releases/releases/download/beekeeper-v0.1.33/Beekeeper.zip" length="64244809" type="application/octet-stream" sparkle:edSignature="65fBkM56ck2Ci91i738xJktu0QyzHwWLw8ZeZZVS0yKgqkRf2yXJgah5IZ204zacglsuX4euAzh0gfFLiyAeAA=="/>
         </item>
     </channel>
 </rss>
